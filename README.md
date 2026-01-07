@@ -1,1 +1,22 @@
 # pcio
+
+- Arm's Length: https://www.parlettgames.uk/oricards/armslength.html
+- Big Apple: https://cappallo.ca/games/bigapple.html
+- Bonehead: To Be Released
+- Clubs: https://www.pagat.com/quotawhist/clubs.html
+- Copyright: https://www.parlettgames.uk/oricards/copyright.html
+- Decks: Just various decks as starting point for rooms
+- Deque
+- Gin Up: To Be Released
+- He Will Never Stop
+- Jury's In
+- Manticore
+- Placing Orders: To Be Released
+- Pollard
+- Tricky Question: To Be Released
+- Tricky Timelines
+- Verschnitt
+- Well Shoot
+- WYPS
+- Zole
+- zt-inflation: Inflation/Zimbabweee Trick
