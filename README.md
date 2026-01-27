@@ -13,6 +13,7 @@
 - Manticore
 - Placing Orders: To Be Released
 - Pollard
+- Swell: To be Released
 - Tricky Question: To Be Released
 - Tricky Timelines
 - Verschnitt
