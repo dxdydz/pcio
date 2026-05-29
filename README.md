@@ -2,16 +2,16 @@
 
 - Arm's Length: https://www.parlettgames.uk/oricards/armslength.html
 - Big Apple: https://cappallo.ca/games/bigapple.html
-- Bonehead: To Be Released
+- Bonehead: https://cappallo.ca/games/bonehead.html
 - Clubs: https://www.pagat.com/quotawhist/clubs.html
 - Copyright: https://www.parlettgames.uk/oricards/copyright.html
 - Decks: Just various decks as starting point for rooms
 - Deque
-- Gin Up: To Be Released
+- Gin Up: https://cappallo.ca/games/ginup.html
 - He Will Never Stop
 - Jury's In
-- Manticore
-- Placing Orders: To Be Released
+- Manticore: https://cappallo.ca/games/manticore.html
+- Placing Orders: https://cappallo.ca/games/placingorders.html
 - Pollard
 - Swell: To be Released
 - Tricky Question: To Be Released
